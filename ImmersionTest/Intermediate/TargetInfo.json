@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ImmersionTest",
+			"Path": "D:\\ImmersionTest\\ImmersionTest\\ImmersionTest\\Source\\ImmersionTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ImmersionTestEditor",
+			"Path": "D:\\ImmersionTest\\ImmersionTest\\ImmersionTest\\Source\\ImmersionTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

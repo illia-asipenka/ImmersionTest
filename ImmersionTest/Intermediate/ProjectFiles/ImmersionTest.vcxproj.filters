@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ImmersionTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FB6001C2-87C3-4438-8DAE-C1EA6858F16A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ImmersionTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ImmersionTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{96AF22B0-9C58-410B-8939-FA326B7043C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ImmersionTest">
+      <UniqueIdentifier>{A25E12C7-6BEC-4314-BDE0-E2F4007B8C2C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ImmersionTest\ImmersionTest.Build.cs">
+      <Filter>Source\ImmersionTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ImmersionTest\ImmersionTest.cpp">
+      <Filter>Source\ImmersionTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ImmersionTest\ImmersionTest.h">
+      <Filter>Source\ImmersionTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ImmersionTest\ImmersionTestGameModeBase.cpp">
+      <Filter>Source\ImmersionTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ImmersionTest\ImmersionTestGameModeBase.h">
+      <Filter>Source\ImmersionTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
