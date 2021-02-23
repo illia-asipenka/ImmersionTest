@@ -1,9 +1,0 @@
-D:\ImmersionTest\ImmersionTest\ImmersionTest\Intermediate\Build\Win64\UE4Editor\Development\ImmersionTest\Definitions.ImmersionTest.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\ImmersionTest\ImmersionTest\ImmersionTest\Source\ImmersionTest/ImmersionTestGameModeBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-d:\immersiontest\immersiontest\immersiontest\intermediate\build\win64\ue4editor\inc\immersiontest\ImmersionTestGameModeBase.generated.h
